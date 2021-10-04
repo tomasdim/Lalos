@@ -1,0 +1,14 @@
+h1 {color: green;text-decoration: underline;}
+.price-tag {cursor: auto;}
+.our-history-button {cursor: pointer;}
+.post-iimg {width: 200px;}
+.recipe-posts-container {display: block;flex-direction: row;margin-left: 5%;width: 320px;max-width: 100%;}
+.recipe-title {text-decoration: none;color: #c23f29;width: fit-content;}
+.recipe-title:hover {text-decoration: underline;cursor: pointer;}
+.recipe-img:hover {cursor: pointer;}
+.single-recipe-container {width: 400px;}
+a, a:visited, a:hover, a:active {color: inherit;}
+.recipe-desc {width: 320px;}
+.post {margin: 0;}
+.fade-in {opacity: 0;transition: opacity 250ms ease-in;}
+.fade-in.appear {opacity: 1;}
